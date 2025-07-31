@@ -1,0 +1,13 @@
+:root{ 
+    --cor-principal: #D9D464;
+    --cors-secundária: #89D964;
+}
+body{
+    background-color: var(--cor-principal);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h1, h2, h5 {
+    color: var(--cors-secundária);
+    font-weight: 700;
+}
