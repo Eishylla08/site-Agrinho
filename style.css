@@ -1,6 +1,6 @@
 :root{ 
-    --cor-principal: #D9D464;
-    --cors-secundária: #89D964;
+    --cor-principal: #fffcbf;
+    --cors-secundária: #00A00C;
 }
 body{
     background-color: var(--cor-principal);
